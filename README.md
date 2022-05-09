@@ -6,6 +6,7 @@ Dieses Repositorium ist die Deutsche Übersetzung zur englischen Lesson [Library
 
 - Rabea Müller, muellerr@zbmed.de
 
+
 ## Library Carpentry
 
 Library Carpentry ist ein Trainingsprogramm für Software- und Datenkenntnisse für Personen, die in Bibliotheken und informationsbezogenen Bereichen arbeiten. Es baut auf Software Carpentry und Data Carpentry auf. Library Carpentry ist ein offizielles Lesson Programm  von The Carpentries.
@@ -20,35 +21,11 @@ Alle Mitwirkenden sollten sich verpflichten, den [Verhaltenskodex (Code of Condu
 
 ## Mitwirken
 
-FIXME
+Schau dir die aktuelle Liste der [issues][https://github.com/RabeaMue/lc-shell-de/issues] an,  um Ideen für Beiträge zu diesem Thema zu erhalten.
 
 ## Autor:innen
 
-Library Carpentry wird durch Issues, Commits und Pull Requests von der Community erstellt und gepflegt.
-
-We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
-how to write new episodes.
-
-Please see the current list of [issues][FIXME] for ideas for contributing to this
-repository. For making your contribution, we use the GitHub flow, which is
-nicely explained in the chapter [Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) in Pro Git
-by Scott Chacon.
-Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg). This indicates that the maintainers will welcome a pull request fixing this issue.  
-
-
-## Maintainer(s)
-
-Current maintainers of this lesson are 
-
-* FIXME
-* FIXME
-* FIXME
-
-
-## Authors
-
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
+Library Carpentry wird durch Issues, Commits und Pull Requests von der Community erstellt und gepflegt. Eine Liste der Personen, die zu dieser Lesson beigetragen haben, findest du unter [AUTHORS](https://github.com/RabeaMue/lc-shell-de/blob/gh-pages/AUTHORS)
 
 ## Zitieren
 
