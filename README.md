@@ -1,13 +1,30 @@
-# FIXME Lesson title
+# Library Carpentry - Die Unix-Shell
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+Dieses Repositorium ist die Deutsche Übersetzung zur englischen Lesson [Library Carpentry - The Unix Shell](https://github.com/LibraryCarpentry/lc-shell)
 
-This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
+## Maintainer Library Carpentry - Die Unix-Shell
 
-## Contributing
+- Rabea Müller, muellerr@zbmed.de
 
-We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
+## Library Carpentry
+
+Library Carpentry ist ein Trainingsprogramm für Software- und Datenkenntnisse für Personen, die in Bibliotheken und informationsbezogenen Bereichen arbeiten. Es baut auf Software Carpentry und Data Carpentry auf. Library Carpentry ist ein offizielles Lesson Programm  von The Carpentries.
+
+## Lizenz
+
+Das gesamte Lehrmaterial zu Software, Daten und Library Carpentry wird unter der [Creative Commons Attribution Lizenz](https://github.com/LibraryCarpentry/lc-shell/blob/gh-pages/LICENSE.md) zur Verfügung gestellt.
+
+## Verhaltenskodex
+
+Alle Mitwirkenden sollten sich verpflichten, den [Verhaltenskodex (Code of Conduct)](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) von The Carpentries einzuhalten.
+
+## Mitwirken
+
+FIXME
+
+## Autor:innen
+
+Library Carpentry wird durch Issues, Commits und Pull Requests von der Community erstellt und gepflegt.
 
 We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
 the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
@@ -33,8 +50,6 @@ Current maintainers of this lesson are
 
 A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
-## Citation
+## Zitieren
 
-To cite this lesson, please consult with [CITATION](CITATION)
-
-[lesson-example]: https://carpentries.github.io/lesson-example
+To cite this lesson, please consult with Rabea Müller, LibraryCarpentry/lc-shell-de: Library Carpentry: Die UNIX Shell, Mai 2022 [lc-shell-de](https://github.com/RabeaMue/lc-shell-de/)
