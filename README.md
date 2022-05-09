@@ -21,7 +21,7 @@ Alle Mitwirkenden sollten sich verpflichten, den [Verhaltenskodex (Code of Condu
 
 ## Mitwirken
 
-Schau dir die aktuelle Liste der [issues][https://github.com/RabeaMue/lc-shell-de/issues] an,  um Ideen für Beiträge zu diesem Thema zu erhalten.
+Schau dir die aktuelle Liste der [issues](https://github.com/RabeaMue/lc-shell-de/issues) an, um Ideen für Beiträge zu diesem Thema zu erhalten.
 
 ## Autor:innen
 
@@ -29,4 +29,4 @@ Library Carpentry wird durch Issues, Commits und Pull Requests von der Community
 
 ## Zitieren
 
-To cite this lesson, please consult with Rabea Müller, LibraryCarpentry/lc-shell-de: Library Carpentry: Die UNIX Shell, Mai 2022 [lc-shell-de](https://github.com/RabeaMue/lc-shell-de/)
+Um diese Lesson zu zitieren, wende dich sich bitte an Rabea Müller, LibraryCarpentry/lc-shell-de: Library Carpentry: Die UNIX Shell, Mai 2022. lc-shell-de: https://github.com/RabeaMue/lc-shell-de/
