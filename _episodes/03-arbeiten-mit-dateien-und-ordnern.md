@@ -9,7 +9,7 @@ objectives:
 - "Mit Dateien und Verzeichnissen über die Kommandozeile arbeiten"
 - "Die Tabulatorvervollständigung verwenden, um die Eingabe einzuschränken"
 - "Befehle verwenden, um Dateien und Teile von Dateien zu drucken und anzuzeigen"
-- "Befehle verwenden, um Dateien zu verschieben/umzubenennen, zu kopieren und zu löschen".
+- "Befehle verwenden, um Dateien zu verschieben/umzubenennen, zu kopieren und zu löschen"
 keypoints:
 - "Die Shell kann verwendet werden, um mehrere Dateien zu kopieren, zu verschieben und zu kombinieren"
 ---
