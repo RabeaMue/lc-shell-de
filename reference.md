@@ -3,7 +3,7 @@ Layout: Referenz
 Titel: Referenz
 ---
 
-## Shell-Spickzettel
+## Shell Cheat Sheet
 
 _____
 ## Shell: Grundlagen
