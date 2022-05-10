@@ -147,3 +147,33 @@ Der Shell selbst ist es egal, wie die Variable genannt wird.
 > > {: .bash}
 > {: .solution}
 {: .challenge}
+
+
+![For-Schleife in Aktion](../fig/shell_script_for_loop_flow_chart.svg)
+
+> ## Ausführen der Schleife über ein Bash-Skript
+>
+> Alternativ kannst du die Schleife auch in einer Skriptdatei 
+> kannst du sie auch in einer Skriptdatei speichern und von der Kommandozeile aus ausführen, ohne dass du
+> die Schleife erneut schreiben musst. Das ist ein so genanntes Bash-Skript, eine einfache Textdatei, die 
+> eine Reihe von Befehlen enthält, wie die Schleife, die du oben erstellt hast. In dem Beispielskript unten, 
+> enthält die erste Zeile der Datei ein so genanntes Shebang (`#!`), gefolgt von dem Pfad zum Interpreter 
+> (oder Programm), der die restlichen Zeilen der Datei ausführt (`/bin/bash`). Die zweite Zeile zeigt, wie 
+> Kommentare in Skripten gemacht werden. Dadurch erhältst du mehr Informationen darüber, was das Skript macht. 
+> Die restlichen Zeilen enthalten die Schleife, die du oben erstellt hast. Du kannst diese Datei in demselben Verzeichnis erstellen 
+Du kannst diese Datei in demselben Verzeichnis > erstellen, das du für die Lektion verwendet hast, und einen Texteditor deiner Wahl verwenden (z. B. nano). 
+> Wenn du die Datei speicherst, musst du darauf achten, dass sie die Endung **.sh** hat (z. B. "mein_erster_bash_script.sh"). Wenn du das getan hast, kannst du das
+> Bash-Skript ausführen, indem du den Befehl bash und den Dateinamen in die Kommandozeile eingibst (z.B. `bash my_first_bash_script.sh`). 
+> > ```
+> > #!/bin/bash
+> > # Dieses Skript durchläuft .txt-Dateien und gibt den Dateinamen, die erste und die letzte Zeile der Datei zurück
+> > for file in *.txt
+> > do
+> > echo $file
+> > head -n 1 $file
+> > tail -n 1 $Datei
+> > done
+> > ```
+> > {: .bash}
+> Lade/kopiere [my_first_bash_script.sh](https://raw.githubusercontent.com/LibraryCarpentry/lc-shell/gh-pages/files/my_first_bash_script.sh). Mehr über Bash-Skripte erfährst du im [Bash Scripting Tutorial - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/).
+{: .callout}
