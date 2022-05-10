@@ -8,7 +8,7 @@ erklären können, warum und wie man die Kommandozeile benutzt;
 Shell-Befehle verwenden, um mit Verzeichnissen und Dateien zu arbeiten;
 Shell-Befehle verwenden, um Daten zu finden und zu manipulieren.
 
-> ## Prerequisites
+> ## Anforderungen
 >
 > Um diese Lesson abzuschließen, benötigst du eine UNIX-ähnliche Shell-Umgebung - siehe [Setup]({{ page.root }}{% link setup.md %}). Außerdem musst du die Datei **[shell-lesson.zip](https://raw.githubusercontent.com/librarycarpentry/lc-shell/gh-pages/data/shell-lesson.zip)** von GitHub auf deinem *Desktop* herunterladen und dort entpacken (sobald du die Datei entpackt/extrahiert hast, solltest du einen Ordner namens "shell-lesson" erhalten).
 {: .prereq}
