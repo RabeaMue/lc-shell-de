@@ -1,5 +1,4 @@
 ---
----
 title: "Navigieren im Dateisystem"
 teaching: 20
 exercises: 10
@@ -11,7 +10,7 @@ objectives:
 keypoints:
 - "Zu wissen, wo du dich in deiner Verzeichnisstruktur befindest, ist der Schlüssel zur Arbeit mit der Shell"
 ---
----
+
 ## Navigieren in der Shell
 
 Wir beginnen mit den Grundlagen der Navigation in der Unix-Shell.
