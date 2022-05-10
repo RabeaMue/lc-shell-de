@@ -1,8 +1,8 @@
-# Library Carpentry - Die Unix-Shell
+# Library Carpentry - Die UNIX Shell
 
 Dieses Repositorium ist die Deutsche Übersetzung zur englischen Lesson [Library Carpentry - The Unix Shell](https://github.com/LibraryCarpentry/lc-shell)
 
-## Maintainer Library Carpentry - Die Unix-Shell
+## Maintainer Library Carpentry - Die UNIX Shell
 
 - Rabea Müller, muellerr@zbmed.de
 
