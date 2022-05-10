@@ -4,20 +4,20 @@ Titel: Einrichtung
 ---
 
 Um an dieser Library Carpentry-Lesson teilnehmen zu können, benötigst du eine funktionierende UNIX-ähnliche Shell-Umgebung.
-Konkret werden wir Bash ([Bourne Again Shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) verwenden, die unter Linux und macOS Standard ist. macOS Catalina-Benutzer haben zsh (Z-Shell) als Standardversion.
-Auch wenn du ein Windows-Benutzer bist, eröffnet dir das Erlernen der Bash eine Reihe von mächtigen Werkzeugen auf deinem persönlichen Rechner und macht dich außerdem mit der Standard-Fernbedienungsschnittstelle vertraut, die auf fast allen Servern und Supercomputern verwendet wird.
+Konkret werden wir Bash ([Bourne Again Shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))) verwenden, die unter Linux und macOS Standard ist. macOS Catalina-User haben zsh (Z-Shell) als Standardversion.
+Auch wenn du ein Windows-User bist, eröffnet dir das Erlernen der Bash eine Reihe von mächtigen Werkzeugen auf deinem persönlichen Rechner und macht dich außerdem mit der Standard-Fernbedienungsschnittstelle vertraut, die auf fast allen Servern und Supercomputern verwendet wird.
 
 >## Terminal-Einrichtung
 >
 >Bash ist die Standardshell der meisten Linux-Distributionen und von macOS.
->Windows-Benutzer benötigen Git Bash, um eine UNIX-ähnliche Umgebung zu erhalten.
+>Windows-User benötigen Git Bash, um eine UNIX-ähnliche Umgebung zu erhalten.
 >
 >- **Linux:** Die Standard-Shell ist normalerweise Bash, aber wenn dein Rechner anders eingerichtet ist, kannst du sie starten, indem du ein Terminal öffnest >und `bash` eingibst.  Du brauchst nichts zu installieren. Such in deinen Anwendungen nach Terminal, um die Bash-Shell zu starten.
 >- **macOS:** Bash ist die Standard-Shell in allen Versionen von macOS vor Catalina, du brauchst nichts zu installieren. Öffnen Sie Terminal über >`/Anwendungen/Dienstprogramme` oder die Spotlight-Suche, um die Bash-Shell zu starten. zsh ist die Standardeinstellung in Catalina.
 >- **Windows:** Unter Windows sind normalerweise CMD oder PowerShell als Standard-Shell-Umgebungen verfügbar. Diese verwenden eine Syntax und eine Reihe von Anwendungen, die es nur auf Windows-Systemen gibt, und sind nicht mit den weiter verbreiteten UNIX-Dienstprogrammen kompatibel. Es kann jedoch eine Bash-Shell unter Windows installiert werden, um eine UNIX-ähnliche Umgebung zu schaffen. Für diese Lesson schlagen wir vor, Git Bash zu verwenden, das Teil des Pakets >[Git für Windows](https://gitforwindows.org/) ist:
-> - Laden Sie das neueste [Installationsprogramm] für Git für Windows herunter (https://gitforwindows.org/).
-> - Doppelklicken Sie auf die `.exe`, um das Installationsprogramm (z. B. `Git-2.13.3-64-bit.exe`) unter Verwendung der Standardeinstellungen auszuführen.
-> - Nach der Installation öffnen Sie die Shell, indem Sie Git Bash aus dem Startmenü (im Git-Ordner) auswählen.
+> - Lade das neueste [Installationsprogramm] für Git für Windows herunter (https://gitforwindows.org/).
+> - Doppelklicke auf die `.exe`, um das Installationsprogramm (z. B. `Git-2.13.3-64-bit.exe`) unter Verwendung der Standardeinstellungen auszuführen.
+> - Nach der Installation öffnest du die Shell, indem du Git Bash aus dem Startmenü (im Git-Ordner) auswählst.
 >
 > Es gibt auch einige fortgeschrittenere Lösungen für die Ausführung von Bash
 > Befehle unter Windows.  Ein Bash-Shell-Befehlszeilentool ist für > Windows 10 verfügbar.
