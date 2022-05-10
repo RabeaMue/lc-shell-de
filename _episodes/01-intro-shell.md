@@ -1,15 +1,15 @@
 ---
-Titel: "Was ist die Shell?"
-Unterricht: 5
-Übungen: 0
-Fragen:
+title: "Was ist die Shell?"
+teaching: 5
+exercise: 0
+questions:
 - "Was ist die Shell?"
 - "Was ist die Kommandozeile?"
 - "Warum sollte ich sie verwenden?"
-Ziele:
+objectives:
 - "Beschreibe die Grundlagen der Unix-Shell"
 - "Erkläre, warum und wie du die Kommandozeile verwendest"
-Kernpunkte:
+keypoints:
 - "Die Shell ist mächtig"
 - "Die Shell kann zum Kopieren, Verschieben und Kombinieren mehrerer Dateien verwendet werden"
 ---
