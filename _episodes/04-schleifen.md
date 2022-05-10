@@ -82,7 +82,7 @@ anstatt sie als Text oder externen Befehl zu behandeln.
 > zwischen zwei verschiedenen Dateinamen behandeln, was normalerweise zu Fehlern führt.
 > Deshalb ist es am besten und generell sicherer, `"$..."` zu verwenden, außer
 > du absolut sicher bist, dass keine Elemente mit Leerzeichen jemals
-> in deine Schleifenvariable kommen (wie in [Folge 5]({{ page.root }}/05-counting-mining/index.html#using-a-loop-to-count-words)).
+> in deine Schleifenvariable kommen.
 {: .callout}
 
 In diesem Beispiel besteht die Liste aus vier Dateinamen: 'a.txt', 'b.txt', 'c.txt', und 'd.txt'
@@ -107,7 +107,6 @@ Da die Liste nur diese vier Einträge enthielt, verlässt die Shell die "for"-Sc
 >
 > Hier sehen wir, dass `>` als Shell-Prompt verwendet wird, aber `>` kann auch
 > verwendet werden, um die Ausgabe eines Befehls umzuleiten (d.h. sie an einen anderen Ort zu schicken, z.B. in eine Datei, anstatt sie im Terminal anzuzeigen) --- > wir verwenden die Umleitung
-> Wir verwenden die Umleitung in [Episode 5]({{ page.root }}{% link _episodes/05-counting-mining.md %}).
 > In ähnlicher Weise wird `$` als Shell-Prompt verwendet, aber, wie wir bereits gesehen haben,
 > wird es auch verwendet, um die Shell aufzufordern, den Wert einer Variablen zu ermitteln.
 >
