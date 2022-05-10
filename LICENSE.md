@@ -1,6 +1,6 @@
 ---
 Layout: Seite
-Titel: "Lizenzen"
+Titel: "Lizenz"
 root: .
 ---
 ## Lehrmaterial
