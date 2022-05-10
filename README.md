@@ -21,7 +21,7 @@ Alle Mitwirkenden sollten sich verpflichten, den [Verhaltenskodex (Code of Condu
 
 ## Mitwirken
 
-Schau dir die aktuelle Liste der [issues](https://github.com/RabeaMue/lc-shell-de/issues) an, um Ideen für Beiträge zu diesem Thema zu erhalten.
+Schau dir die aktuelle Liste der [issues](https://github.com/RabeaMue/lc-shell-de/issues) an, um Ideen für Beiträge zu diesem Thema zu erhalten. Wenn du mehr Informationen suchst, wie du mitwirken kannst, besuche unsere [Mitwirken Seite](https://github.com/RabeaMue/lc-shell-de/blob/gh-pages/CONTRIBUTING.md)
 
 ## Autor:innen
 
